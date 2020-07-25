@@ -1,35 +1,40 @@
+### Meet_Zachy👋
 
-<h2> #Meet Zachy<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<a href="https://codesandbox.io/zachydev">
+ <img align="left" alt="ZachyDev twitter" width="21px" src="https://raw.githubusercontent.com/zachydev/zachydev/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/zachy_codes">
+  <img align="left" alt="ZachyDev twitter" width="21px" src="https://raw.githubusercontent.com/zachydev/zachydev/master/assets/twitter.svg" />
+</a>
+<a href="https://codepen.io/zachydev">
+  <img align="left" alt="ZachyDev codepen" width="21px" src="https://raw.githubusercontent.com/zachydev/zachydev/master/assets/codepen.png" />
+</a>
 
-<img align='right' src="https://github.com/ZachyDev/ZachyDev/blob/master/Zachy.PNG" width='200"'>
+<br />
+<br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@Zachy_Codes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Zachy_Codes)](https://twitter.com/Zachy_Codes) [![Linkedin Badge](https://img.shields.io/badge/-Zachy@LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachydev/)](https://www.linkedin.com/in/ZachyDev/) [![Medium Badge](https://img.shields.io/badge/-Zachy_on_Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mosetizachary001/)](https://medium.com/@mosetizachary001)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mosetizachary001@gmail.com)](mailto:mosetizachary001@gmail.com)
+Meet Zachy,an expert in web technologies | Open Source Champion | Community Ninja.
+- ✔ I’m currently working on my project [Travel_Smart](https://github.com/zachydev/travel_smart)
+- ✔ I’m currently learning Vue.js,GraphQL & Typescript
+- ✔ I’m looking to collaborate on [Github Readme Stats](https://github.com/zachydev/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/zachydev/zachydev/issues)
 
-- Meet Zachy🌟 Js_Geek👋💻 :man: from Nairobi, Kenya - Expert Web Technologies :revolving_hearts:
+**Languages and Tools:**  
 
-## 👯 Communities
-- Eldoret Javascript
-- The Open Code Foundation
-- Andela Learning Community ( ALC 4.0 )
-- CodeLn Chat
-- Developer Circles from Eldoret
-- DSC UOE
-- Lepsta Developers - Eldoret
-- Google Developer Group - Eldoret
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+<!-- stats -->
+![Zachy's github stats](https://github-readme-stats.vercel.app/api?username=zachydev&count_private=true&show_icons=true&theme=radical)
 
-## 🔭 I’m currently working at Neverest LLC as a Front-End Developer
+### - Languages and Tools...
+<p align="center">
 
-## 🌱 I’m currently learning   Vue.js - A Progressive Javascript Framework
+ <img src="https://raw.githubusercontent.com/ZachyDev/zachy/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+ <img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/misc/firebase.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/ZachyDev/zachy/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-## 💬 Details
-- Name: Zachary Moseti
-<!-- - Presentations -->
-- Portfolio: [Portfolio](https://codewithzachy.netlify.com/)
-
-- ⚡ Fun fact: It's geeky there!
-
-![Zachy's github stats](https://github-readme-stats.vercel.app/api?username=ZachyDev&hide=["issues"]&show_icons=true)
-
+</p>
 
