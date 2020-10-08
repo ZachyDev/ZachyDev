@@ -6,10 +6,6 @@
 </p>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <p align="center">
 <a href="https://twitter.com/tiz_dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ZachyDev" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/zachydev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ZachyDev" height="20" width="20" /></a>
