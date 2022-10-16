@@ -1,9 +1,9 @@
-# Building solutions! <img src="https://github.com/ZachyDev/ZachyDev/thumbnail/zac.png" width="35" />
+# Building solutions!
 
-### <img src="https://github.com/ZachyDev/ZachyDev/thumbnail/zac.png" width="45" /> About Me:
+### <img src="https://raw.githubusercontent.com/ZachyDev/ZachyDev/main/thumbnail/zac.png" width="45" /> About Me:
 
 - 🏦 I'm a Front-End Engineer
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://raw.githubusercontent.com/ZachyDev/ZachyDev/main/thumbnail/zac.png" width="100">
 - 💻 I use daily **.js**, **.sql**
 - 📖 I am an **Open Source** Champion
 - 🧑‍💻 Tech I work on:
