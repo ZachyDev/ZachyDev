@@ -1,9 +1,10 @@
 # Building solutions!
+<img src="https://github.com/ZachyDev/ZachyDev/blob/main/thumbnail/zac.jpg" style="width:100%;height:550px">
 
-### About Me:
+# About Me:
 
 - 🏦 I'm a Front-End Engineer
-  <img src="https://raw.githubusercontent.com/ZachyDev/ZachyDev/main/thumbnail/zac.png" style="width:100;">
+  
 - 💻 I use daily **.js**, **.sql**
 - 📖 I am an **Open Source** Champion
 - 🧑‍💻 Tech I work on:
@@ -20,4 +21,9 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
+
 ---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
