@@ -1,7 +1,7 @@
 # Building solutions!
-<img src="https://raw.githubusercontent.com/ZachyDev/ZachyDev/main/thumbnail/zac.png" style="width:100;height:350px">
+<img src="https://raw.githubusercontent.com/ZachyDev/ZachyDev/main/thumbnail/zac.png" style="width:100%;height:350px">
 
-###About Me:
+# About Me:
 
 - 🏦 I'm a Front-End Engineer
   
