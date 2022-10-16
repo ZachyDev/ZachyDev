@@ -10,7 +10,7 @@
 
 <p align="center">
      <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="55" height="55"/>
