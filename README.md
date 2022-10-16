@@ -1,5 +1,5 @@
 # Building solutions!
-<img src="https://github.com/ZachyDev/ZachyDev/blob/main/thumbnail/zac.jpg" style="width:100%;height:550px">
+<img src="https://github.com/ZachyDev/ZachyDev/blob/main/thumbnail/zac.jpg" style="width:100%;">
 
 # About Me:
 
