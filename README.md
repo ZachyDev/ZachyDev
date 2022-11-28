@@ -1,4 +1,4 @@
-# Building solutions!
+# Building Solutions!
 <img src="https://github.com/ZachyDev/ZachyDev/blob/main/thumbnail/zac.jpg" style="width:100%;">
 
 # About Me:
